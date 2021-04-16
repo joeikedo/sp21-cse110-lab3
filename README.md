@@ -1,1 +1,2 @@
-[Link to my published site](https://joeikedo.github.io/sp21-cse110-lab3/)
+[Link to my published site](https://joeikedo.github.io/sp21-cse110-lab3/) <br>
+***Note to Grader:*** I didn't delete my branches after merging pull requests just incase you need to see them for grading purposes. 
