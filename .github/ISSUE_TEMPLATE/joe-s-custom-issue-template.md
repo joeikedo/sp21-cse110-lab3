@@ -11,6 +11,6 @@ assignees: ''
 ## Issue sub-header
 
 Things that need to get done:
-- [] First Item
-- [] Second Item
-- [] Third Item
+- [ ] First
+- [ ] Second
+- [ ] Third
