@@ -12,5 +12,5 @@ assignees: ''
 
 Things that need to get done:
 - [] First Item
--[] Second Item
--[] Third Item
+- [] Second Item
+- [] Third Item
