@@ -1,1 +1,1 @@
-[Link to my published site](https://joeikedo.github.io/Lab2/)
+[Link to my published site](https://joeikedo.github.io/sp21-cse110-lab3/)
