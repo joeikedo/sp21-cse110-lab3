@@ -11,7 +11,9 @@ Group Member Index links: <br>
 - [Joe](#joe-ikedo)<br>
 - [Nataly](#nataly-buhr)<br>
 - [Sonika](#sonika-ram)<br>
-- [Thet](#thet-zaw)<br>
+- [Thet](#thet-zaw)<br>   
+
+[Retrospective](#closing-thoughtsretrospective) <br>
 
 <hr>
 
@@ -94,3 +96,8 @@ Group Member Index links: <br>
 
 - What issues are blocking me?
     - (Your text here)
+
+<br>
+
+## Closing Thoughts/Retrospective
+Any closing thoughts/reflections on today for next time go here.
