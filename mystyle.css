@@ -17,7 +17,7 @@ body {
     padding-right: 3px;
   }
 
-  h3 {
+  h3, h6 {
     font-family: 'Pacifico', cursive;
   }
 
@@ -119,7 +119,7 @@ body {
   }
 
   .course{
-    color: red;
+    color: rgb(36, 9, 44);
   }
 
   #haiku_outer{
@@ -217,3 +217,32 @@ body {
         color: red;
       }
      }
+
+     li[class="a"] {
+        color: darkolivegreen;
+      }
+
+
+      *.a {
+        text-decoration: underline;
+      }
+
+      .dec p {
+        text-decoration: underline;
+      }
+
+      p > span {
+        background-color: rgb(221, 255, 30);
+      }
+
+      img + p {
+        font-weight: bold;
+      }
+
+      img ~ p {
+        font-size: 101%;
+      }
+
+      p.testing{
+        color:  rgb(110, 29, 165);
+      }
