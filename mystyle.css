@@ -1,0 +1,35 @@
+body {
+    background-color:hsla(52, 22%, 62%, 0.651);;
+  }
+  
+  h1 {
+    /*This block is for the largest header size*/
+    background-color: rgba(255,255,255,.5);
+    color: #4357D0;
+    margin-top: 2vw;
+    margin-bottom: 1vh;
+    margin-left: 0.01em;
+    margin-right: 38em;
+    border-style: solid;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 6px;
+    padding-right: 3px;
+  }
+
+  h2 {
+    border-style: solid;
+    background-color: rgba(255,255,255,.5);
+    margin: 1px 56.9em 10px 5px;
+    padding: 1px .001px 1px 4px;
+  }
+
+  ol {
+    margin: auto;
+    border-color: black;
+    border-style: dotted;
+    border-width: 2px;
+    border-radius: 3mm;
+  }
+
+
